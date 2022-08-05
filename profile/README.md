@@ -3,9 +3,9 @@
 > As a growing development center, we offer software solutions for all dimensions of business. Our specialized professional developers and designers help develop and design applications using the latest technologies for Web development, IOS and Android.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/assets/images/portada_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="/assets/images/portada.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="/assets/images/portada.png">
+  <source media="(prefers-color-scheme: dark)" srcset="/profile/assets/images/portada_dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="/profile/assets/images/portada.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="/profile/assets/images/portada.png">
 </picture>
 
 ## We Love What We Do ♥️
@@ -19,7 +19,7 @@ We regularly invest in exploring modern technologies that can benefit our custom
 
 We focus on innovative and customized solutions that offer an excellent user experience. Our vision is to provide optimal solutions, creating unique experiences for each type of client.
 
-### Services 🧑🏻‍💻\_
+### Services 🧑🏻‍💻
 
 - Technology 💻🔥
   - We are a dynamic team changing our thinking always with latest technology trend, that serves state-of-the art solutions
