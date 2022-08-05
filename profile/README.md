@@ -22,7 +22,14 @@ We focus on innovative and customized solutions that offer an excellent user exp
 ### Services 🧑🏻‍💻
 
 - Technology 💻🔥
+
   - We are a dynamic team changing our thinking always with latest technology trend, that serves state-of-the art solutions
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skills.thijs.gg/icons?i=html,js,nodejs,react,kotlin,swift&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skills.thijs.gg/icons?i=html,js,nodejs,react,kotlin,swift&theme=light">
+    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://skills.thijs.gg/icons?i=html,js,nodejs,react,kotlin,swift&theme=light">
+  </picture>
+
 - Creativity 🧠
   - We are creative and different thinking team of young, can give best resolution of technologies that you ever want
 - Mobile App Strategy 📱
